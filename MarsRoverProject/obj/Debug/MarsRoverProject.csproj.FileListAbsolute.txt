@@ -1,0 +1,7 @@
+C:\Users\Samet\Desktop\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.exe.config
+C:\Users\Samet\Desktop\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.exe
+C:\Users\Samet\Desktop\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.pdb
+C:\Users\Samet\Desktop\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.csprojAssemblyReference.cache
+C:\Users\Samet\Desktop\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.exe
+C:\Users\Samet\Desktop\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.pdb
